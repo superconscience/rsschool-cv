@@ -1,1 +1,1 @@
-# rsschool-cv
+https://superconscience.github.io/rsschool-cv/cv
