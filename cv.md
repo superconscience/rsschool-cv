@@ -2,21 +2,15 @@
 
 ### Middle Frontend Developer (React)
 
-====
-
 Email: gleb.godovanyuk@gmail.com
 
 Phone: +380950928411
 
 LinkedIn: [www.linkedin.com/in/hlib-hodovaniuk-5385b6211](www.linkedin.com/in/hlib-hodovaniuk-5385b6211)
 
-====
-
 I am an experienced Frontend developer interested in building usable, useful,
 well-constructed websites and applications. Interested in continuation of
 learning and cooperation with excellent people.
-
-====
 
 ## Skills
 
@@ -28,16 +22,12 @@ learning and cooperation with excellent people.
 - Working knowledge of Webpack, Babel, Git, Docker
 - Team collaboration, Git repository, time management
 
-====
-
 ## Experience
 
 - 4 years of handling customer requirements for technical solutions
 - 2 years of experience in coding and developing web applications in React JS environment
 - Over 4 years of working with JavaScript technology-based solutions
 - 3 years of experience in developing and maintaining restful interfaces with MVC architecture for complex web apps utilizing PHP and MYSQL
-
-====
 
 ## Work History
 
@@ -67,8 +57,6 @@ Role: Junior Fullstack Developer / Middle Fullstack Developer / Middle Frontend 
       Laravel, MYSQL, Eloquent.
     - Identified and solved issues caused by plugins under PHP,
       Javascript and Jquery.
-
-====
 
 ## Code Examples
 
@@ -181,5 +169,5 @@ export default App
 ## Languages
 
 - English - Intermediate/Upper-intermediate (according to the online test at [EF-SET](https://www.efset.org/quick-check/))
-    - ![EFSET results](/images/efset.png)
+  ![EFSET results](/images/efset.png)
 - Ukrainian/Russian - native
