@@ -169,5 +169,6 @@ export default App
 ## Languages
 
 - English - Intermediate/Upper-intermediate (according to the online test at [EF-SET](https://www.efset.org/quick-check/))
-  - ![EFSET results](/images/efset.png)
+  
+  ![EFSET results](/images/efset.png)
 - Ukrainian/Russian - native
